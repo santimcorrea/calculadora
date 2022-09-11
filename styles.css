@@ -1,0 +1,27 @@
+.calculadora{
+    margin-top: 50px;
+}
+
+.visual-resultado{
+    background-color: grey;
+}
+
+#resultado{
+    padding: 40px 230px 40px 230px;
+    background-color: rgb(232, 232, 232);
+}
+
+button{
+    width: 80px;
+    background-color: aqua;
+    color: white;
+}
+
+.special-button{
+    height: 80px;
+}
+
+.last-fila{
+    margin-top: -47px;
+    margin-left: -94px;
+}
